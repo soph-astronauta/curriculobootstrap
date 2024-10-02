@@ -1,0 +1,58 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Container principal */
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Seções */
+section {
+    margin-bottom: 20px;
+}
+
+/* Estilo dos contatos */
+.contact-info {
+    margin-bottom: 10px;
+}
+
+/* Estilo das listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e9e9e9;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Estilo dos links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
